@@ -1,0 +1,7 @@
+{
+"DisplayName":"Sarvante", 
+"Index": 4, 
+"DisableImageFiltering":false, 
+"UseCustomDimentions":false, 
+"CustomDimentions":[0.0, 0.0, 0.0]
+}

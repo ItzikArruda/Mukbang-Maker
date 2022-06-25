@@ -1,0 +1,6 @@
+{
+"DisplayName":"", 
+"AllowTransparency":false, 
+"UseCustomDimentions":false, 
+"CustomDimentions":[0.0, 0.0, 0.0]
+}

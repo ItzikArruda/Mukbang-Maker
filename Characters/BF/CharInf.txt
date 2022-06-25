@@ -1,0 +1,7 @@
+{
+"DisplayName":"Boyfriend", 
+"Index": 0, 
+"DisableImageFiltering":false, 
+"UseCustomDimentions":false, 
+"CustomDimentions":[0.0, 0.0, 0.0]
+}

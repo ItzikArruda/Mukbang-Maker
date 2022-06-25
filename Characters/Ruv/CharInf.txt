@@ -1,0 +1,7 @@
+{
+"DisplayName":"Ruv", 
+"Index": 5, 
+"DisableImageFiltering":false, 
+"UseCustomDimentions":false, 
+"CustomDimentions":[0.0, 0.0, 0.0]
+}

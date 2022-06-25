@@ -1,0 +1,7 @@
+{
+"DisplayName":"Milf", 
+"Index": 3, 
+"DisableImageFiltering":false, 
+"UseCustomDimentions":false, 
+"CustomDimentions":[0.0, 0.0, 0.0]
+}

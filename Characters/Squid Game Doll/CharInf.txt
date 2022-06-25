@@ -1,0 +1,7 @@
+{
+"DisplayName":"Squid Game Doll", 
+"Index": 8, 
+"DisableImageFiltering":false, 
+"UseCustomDimentions":false, 
+"CustomDimentions":[0.0, 0.0, 0.0]
+}

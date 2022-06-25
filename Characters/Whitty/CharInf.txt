@@ -1,0 +1,7 @@
+{
+"DisplayName":"Whitty", 
+"Index": 13, 
+"DisableImageFiltering":true, 
+"UseCustomDimentions":false, 
+"CustomDimentions":[0.0, 0.0, 0.0] 
+}

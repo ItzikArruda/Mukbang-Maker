@@ -1,0 +1,7 @@
+{
+"DisplayName":"Dad", 
+"Index": 2, 
+"DisableImageFiltering":false, 
+"UseCustomDimentions":false, 
+"CustomDimentions":[0.0, 0.0, 0.0]
+}
