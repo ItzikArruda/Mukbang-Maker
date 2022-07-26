@@ -7,4 +7,4 @@ Too Much To Upload To Github.
 To Open The Code In Unity, Simply Create A New Unity Project And Drag
 Everything (Exept The README) To The Assets Folder.
 
-Public Download Of The Thing Will Be Available Soon.
+Download The Thing: https://itzik-arruda.itch.io/danacons-mukbang-maker
